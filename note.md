@@ -34,3 +34,26 @@ Ada banyak cara membaca pergerakan candle, seperti menggunakan alligator, moving
 
 - ![alt text](image-9.png)
 - ![alt text](image-10.png)
+
+# 2.2 Dasar Membaca Trend & Menentukan Arah
+
+Cheat sheet membaca trend part 2
+
+![alt text](image-11.png)
+![alt text](image-12.png)
+
+## Market phase dibagi menjadi 3 bagian
+
+- Uptrend
+- Downtrend
+- Consolidation
+
+![alt text](image-13.png)
+
+## Retest / Retracement
+
+Retracement adalah koreksi harga sementara yang berlawanan arah dengan tren utama (naik atau turun)
+dalam jangka pendek sebelum kembali melanjutkan tren besarnya.
+Retracement sering disebut pullback (saat tren uptrend) atau throwback (saat downtrend) dan dianggap sebagai area potensial untuk entry posisi atau buy on weakness.
+
+![alt text](image-14.png)
