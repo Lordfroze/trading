@@ -80,12 +80,64 @@ Edit: jangan pernah menggunakan timeframe 1 menit. jika tidak mau senam jantung
 
 ![alt text](image-64.png)
 
+| Sesi                     | Jam Buka (WIB) | Jam Tutup (WIB) | Karakteristik                        |
+| ------------------------ | -------------- | --------------- | ------------------------------------ |
+| **Sydney**         | 05:00          | 14:00           | Volume rendah, spread lebar          |
+| **Tokyo (Asia)**   | 06:00          | 15:00           | Moderat, JPY aktif                   |
+| **London (Eropa)** | 14:00          | 23:00           | Volume tertinggi, volatilitas tinggi |
+| **New York (US)**  | 19:00          | 04:00           | Volume tinggi, USD aktif             |
+
 ## PAIR TRADING
 
-- TOKYO : JPY
-- LONDON : GBP
-- NEW YORK : USD
-- SYDNEY : AUD
+### **1. Sesi Asia (Tokyo) — 06:00–15:00 WIB**
+
+| Pair              | Alasan                                      |
+| ----------------- | ------------------------------------------- |
+| **USD/JPY** | Pair JPY paling likuid, volatilitas moderat |
+| **EUR/JPY** | Cross yen dengan volatilitas lebih tinggi   |
+| **AUD/JPY** | Dipengaruhi data Australia & China          |
+| **NZD/JPY** | Volatilitas NZD selama sesi Asia            |
+| **AUD/USD** | Aktif karena sesi Sydney overlap            |
+
+### **2. Sesi London — 14:00–23:00 WIB**
+
+| Pair              | Alasan                                                |
+| ----------------- | ----------------------------------------------------- |
+| **EUR/USD** | Pair paling banyak diperdagangkan, spread terketat    |
+| **GBP/USD** | Volatilitas tinggi, "Caber" pair                      |
+| **EUR/GBP** | Cross Eropa dengan pergerakan teknis                  |
+| **GBP/JPY** | Volatilitas ekstrem, cocok untuk trader berpengalaman |
+| **USD/CHF** | Safe-haven, bergerak saat ketidakpastian Eropa        |
+
+### **3. Sesi New York — 19:00–04:00 WIB**
+
+| Pair              | Alasan                                         |
+| ----------------- | ---------------------------------------------- |
+| **EUR/USD** | Likuiditas tertinggi saat overlap London       |
+| **GBP/USD** | Volatilitas tinggi, cocok untuk breakout       |
+| **USD/JPY** | Responsif terhadap data AS & yield Treasury    |
+| **USD/CAD** | Dipengaruhi harga minyak & data Kanada         |
+| **USD/CHF** | Safe-haven, berkorelasi negatif dengan EUR/USD |
+
+## **Overlap Terbaik untuk Trader GMT+7**
+
+### **1. London–New York Overlap: 19:00–23:00 WIB**
+
+Ini adalah **jendela trading terbaik** secara global:
+
+* Lebih dari **50% volume harian** terjadi di sini
+* Spread paling ketat, slippage minimal
+* Pair terbaik: **EUR/USD, GBP/USD, USD/JPY, USD/CAD**
+
+### **2. Tokyo–London Overlap: 14:00–15:00 WIB**
+
+* Hanya  **1 jam** , tapi sering menghasilkan breakout
+* Pair terbaik: **EUR/JPY, GBP/JPY, EUR/USD**
+
+### **3. Sydney–Tokyo Overlap: 06:00–14:00 WIB**
+
+* Volume moderat, cocok untuk strategi range-bound
+* Pair terbaik: **AUD/JPY, AUD/USD, NZD/JPY**
 
 # 4. Menentukan letak open posisi yang baik
 
@@ -164,8 +216,6 @@ broker mendapat keuntungan dari tiap kita open posisi entah itu untung atau pun 
 ![alt text](image-39.png)
 
 ![alt text](image-40.png)
-
-###
 
 sedikit edit
 Risk Reward Ratio
