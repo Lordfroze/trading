@@ -80,6 +80,13 @@ Edit: jangan pernah menggunakan timeframe 1 menit. jika tidak mau senam jantung
 
 ![alt text](image-64.png)
 
+## PAIR TRADING
+
+- TOKYO : JPY
+- LONDON : GBP
+- NEW YORK : USD
+- SYDNEY : AUD
+
 # 4. Menentukan letak open posisi yang baik
 
 Cheat sheet open strategi untuk support & resistance dan Supply and demand
