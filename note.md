@@ -139,6 +139,50 @@ Ini adalah **jendela trading terbaik** secara global:
 * Volume moderat, cocok untuk strategi range-bound
 * Pair terbaik: **AUD/JPY, AUD/USD, NZD/JPY**
 
+## Sesi Trading XAUUSD (GOLD) ke WIB
+
+| Sesi                     | Jam (WIB)      | Karakteristik XAUUSD                   |
+| ------------------------ | -------------- | -------------------------------------- |
+| **Sydney**         | 04:00 – 13:00 | Volume rendah, spread lebar            |
+| **Tokyo (Asia)**   | 06:00 – 15:00 | Konsolidasi, pergerakan lambat         |
+| **London (Eropa)** | 14:00 – 22:00 | Likuiditas naik, trend mulai terbentuk |
+| **New York (US)**  | 19:00 – 04:00 | Volatilitas tertinggi, USD dominan     |
+
+### **Pembukaan Pasar London**
+
+**🕑 14:00 – 16:00 WIB**
+
+* Awal sesi Eropa, trend harian mulai terbentuk
+* Likuiditas meningkat signifikan dari sesi Asia
+* Cocok untuk identifikasi arah trend sebelum overlap puncak
+
+### **Pembukaan Pasar New York**
+
+**🕖 19:00 – 21:00 WIB**
+
+* Reaksi tajam terhadap data ekonomi AS (NFP, CPI, FOMC)
+* Banyak rilis berita high-impact jam **19:30–21:00 WIB**
+* Volatilitas tinggi meski London belum overlap penuh
+
+## Ringkasan Berdasarkan Gaya Trading
+
+| Gaya Trading            | Waktu Terbaik (WIB) | Alasan                           |
+| ----------------------- | ------------------- | -------------------------------- |
+| **Scalping**      | 19:00 – 22:00      | Spread ketat, volatilitas tinggi |
+| **Day Trading**   | 14:00 – 22:00      | Trend jelas, momentum kuat       |
+| **News Trading**  | 19:30 – 21:00      | Rilis data AS, reaksi instan     |
+| **Swing Trading** | 14:00 – 18:00      | Posisi awal sebelum breakouts    |
+| **Range Trading** | 06:00 – 13:00      | Konsolidasi, pergerakan stabil   |
+
+## Waktu yang Kurang Ideal Untuk Trading Emas (XAUUSD)
+
+| Waktu (WIB)                          | Mengapa Dihindari                                 |
+| ------------------------------------ | ------------------------------------------------- |
+| **04:00 – 06:00**             | Jeda antar sesi, likuiditas terendah              |
+| **22:00 – 04:00**             | London tutup, hanya NY yang aktif, volume menurun |
+| **Sebelum rilis berita besar** | Spread melebar drastis, slippage tinggi           |
+| **Libur nasional AS/UK**       | Volume tipis, pergerakan tidak terduga            |
+
 # 4. Menentukan letak open posisi yang baik
 
 Cheat sheet open strategi untuk support & resistance dan Supply and demand
