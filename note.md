@@ -80,8 +80,8 @@ Edit: jangan pernah menggunakan timeframe 1 menit. jika tidak mau senam jantung
 
 ![alt text](image-64.png)
 
-| Sesi                     | Jam Buka (WIB) | Jam Tutup (WIB) | Karakteristik                        |
-| ------------------------ | -------------- | --------------- | ------------------------------------ |
+| Sesi               | Jam Buka (WIB) | Jam Tutup (WIB) | Karakteristik                        |
+| ------------------ | -------------- | --------------- | ------------------------------------ |
 | **Sydney**         | 05:00          | 14:00           | Volume rendah, spread lebar          |
 | **Tokyo (Asia)**   | 06:00          | 15:00           | Moderat, JPY aktif                   |
 | **London (Eropa)** | 14:00          | 23:00           | Volume tertinggi, volatilitas tinggi |
@@ -91,8 +91,8 @@ Edit: jangan pernah menggunakan timeframe 1 menit. jika tidak mau senam jantung
 
 ### **1. Sesi Asia (Tokyo) — 06:00–15:00 WIB**
 
-| Pair              | Alasan                                      |
-| ----------------- | ------------------------------------------- |
+| Pair        | Alasan                                      |
+| ----------- | ------------------------------------------- |
 | **USD/JPY** | Pair JPY paling likuid, volatilitas moderat |
 | **EUR/JPY** | Cross yen dengan volatilitas lebih tinggi   |
 | **AUD/JPY** | Dipengaruhi data Australia & China          |
@@ -101,8 +101,8 @@ Edit: jangan pernah menggunakan timeframe 1 menit. jika tidak mau senam jantung
 
 ### **2. Sesi London — 14:00–23:00 WIB**
 
-| Pair              | Alasan                                                |
-| ----------------- | ----------------------------------------------------- |
+| Pair        | Alasan                                                |
+| ----------- | ----------------------------------------------------- |
 | **EUR/USD** | Pair paling banyak diperdagangkan, spread terketat    |
 | **GBP/USD** | Volatilitas tinggi, "Caber" pair                      |
 | **EUR/GBP** | Cross Eropa dengan pergerakan teknis                  |
@@ -111,8 +111,8 @@ Edit: jangan pernah menggunakan timeframe 1 menit. jika tidak mau senam jantung
 
 ### **3. Sesi New York — 19:00–04:00 WIB**
 
-| Pair              | Alasan                                         |
-| ----------------- | ---------------------------------------------- |
+| Pair        | Alasan                                         |
+| ----------- | ---------------------------------------------- |
 | **EUR/USD** | Likuiditas tertinggi saat overlap London       |
 | **GBP/USD** | Volatilitas tinggi, cocok untuk breakout       |
 | **USD/JPY** | Responsif terhadap data AS & yield Treasury    |
@@ -125,24 +125,24 @@ Edit: jangan pernah menggunakan timeframe 1 menit. jika tidak mau senam jantung
 
 Ini adalah **jendela trading terbaik** secara global:
 
-* Lebih dari **50% volume harian** terjadi di sini
-* Spread paling ketat, slippage minimal
-* Pair terbaik: **EUR/USD, GBP/USD, USD/JPY, USD/CAD**
+- Lebih dari **50% volume harian** terjadi di sini
+- Spread paling ketat, slippage minimal
+- Pair terbaik: **EUR/USD, GBP/USD, USD/JPY, USD/CAD**
 
 ### **2. Tokyo–London Overlap: 14:00–15:00 WIB**
 
-* Hanya  **1 jam** , tapi sering menghasilkan breakout
-* Pair terbaik: **EUR/JPY, GBP/JPY, EUR/USD**
+- Hanya **1 jam** , tapi sering menghasilkan breakout
+- Pair terbaik: **EUR/JPY, GBP/JPY, EUR/USD**
 
 ### **3. Sydney–Tokyo Overlap: 06:00–14:00 WIB**
 
-* Volume moderat, cocok untuk strategi range-bound
-* Pair terbaik: **AUD/JPY, AUD/USD, NZD/JPY**
+- Volume moderat, cocok untuk strategi range-bound
+- Pair terbaik: **AUD/JPY, AUD/USD, NZD/JPY**
 
 ## Sesi Trading XAUUSD (GOLD) ke WIB
 
-| Sesi                     | Jam (WIB)      | Karakteristik XAUUSD                   |
-| ------------------------ | -------------- | -------------------------------------- |
+| Sesi               | Jam (WIB)     | Karakteristik XAUUSD                   |
+| ------------------ | ------------- | -------------------------------------- |
 | **Sydney**         | 04:00 – 13:00 | Volume rendah, spread lebar            |
 | **Tokyo (Asia)**   | 06:00 – 15:00 | Konsolidasi, pergerakan lambat         |
 | **London (Eropa)** | 14:00 – 22:00 | Likuiditas naik, trend mulai terbentuk |
@@ -152,34 +152,34 @@ Ini adalah **jendela trading terbaik** secara global:
 
 **🕑 14:00 – 16:00 WIB**
 
-* Awal sesi Eropa, trend harian mulai terbentuk
-* Likuiditas meningkat signifikan dari sesi Asia
-* Cocok untuk identifikasi arah trend sebelum overlap puncak
+- Awal sesi Eropa, trend harian mulai terbentuk
+- Likuiditas meningkat signifikan dari sesi Asia
+- Cocok untuk identifikasi arah trend sebelum overlap puncak
 
 ### **Pembukaan Pasar New York**
 
 **🕖 19:00 – 21:00 WIB**
 
-* Reaksi tajam terhadap data ekonomi AS (NFP, CPI, FOMC)
-* Banyak rilis berita high-impact jam **19:30–21:00 WIB**
-* Volatilitas tinggi meski London belum overlap penuh
+- Reaksi tajam terhadap data ekonomi AS (NFP, CPI, FOMC)
+- Banyak rilis berita high-impact jam **19:30–21:00 WIB**
+- Volatilitas tinggi meski London belum overlap penuh
 
 ## Ringkasan Berdasarkan Gaya Trading
 
-| Gaya Trading            | Waktu Terbaik (WIB) | Alasan                           |
-| ----------------------- | ------------------- | -------------------------------- |
-| **Scalping**      | 19:00 – 22:00      | Spread ketat, volatilitas tinggi |
-| **Day Trading**   | 14:00 – 22:00      | Trend jelas, momentum kuat       |
-| **News Trading**  | 19:30 – 21:00      | Rilis data AS, reaksi instan     |
-| **Swing Trading** | 14:00 – 18:00      | Posisi awal sebelum breakouts    |
-| **Range Trading** | 06:00 – 13:00      | Konsolidasi, pergerakan stabil   |
+| Gaya Trading      | Waktu Terbaik (WIB) | Alasan                           |
+| ----------------- | ------------------- | -------------------------------- |
+| **Scalping**      | 19:00 – 22:00       | Spread ketat, volatilitas tinggi |
+| **Day Trading**   | 14:00 – 22:00       | Trend jelas, momentum kuat       |
+| **News Trading**  | 19:30 – 21:00       | Rilis data AS, reaksi instan     |
+| **Swing Trading** | 14:00 – 18:00       | Posisi awal sebelum breakouts    |
+| **Range Trading** | 06:00 – 13:00       | Konsolidasi, pergerakan stabil   |
 
 ## Waktu yang Kurang Ideal Untuk Trading Emas (XAUUSD)
 
-| Waktu (WIB)                          | Mengapa Dihindari                                 |
-| ------------------------------------ | ------------------------------------------------- |
-| **04:00 – 06:00**             | Jeda antar sesi, likuiditas terendah              |
-| **22:00 – 04:00**             | London tutup, hanya NY yang aktif, volume menurun |
+| Waktu (WIB)                    | Mengapa Dihindari                                 |
+| ------------------------------ | ------------------------------------------------- |
+| **04:00 – 06:00**              | Jeda antar sesi, likuiditas terendah              |
+| **22:00 – 04:00**              | London tutup, hanya NY yang aktif, volume menurun |
 | **Sebelum rilis berita besar** | Spread melebar drastis, slippage tinggi           |
 | **Libur nasional AS/UK**       | Volume tipis, pergerakan tidak terduga            |
 
@@ -387,3 +387,58 @@ Part 3 tentang Liquidity market, tempat uang bersemayam.
 # 7. Summary
 
 apakah wajib mengetahui itu semua, tidak harus, materi 1-5 adalah konsep dasar semua itu rangkuman dari beberapa banyak materi gila. setelah mengerti materi 1-5 bisa dilanjutkan memahami 6 dan part partnya
+
+# 📊 Tabel Nilai Pip (Standar Forex)
+
+💵 Pair dengan USD di belakang (paling gampang)
+
+Contoh: EURUSD, GBPUSD, AUDUSD, NZDUSD
+
+👉 Ini yang wajib kamu hafal dulu
+
+| Lot Size | Perkiraan Pip |
+| -------- | ------------- |
+| 1.00     | $10           |
+| 0.10     | $1            |
+| 0.01     | $0.10         |
+
+✅ Ini fix / paling stabil
+👉 karena langsung USD
+
+💴 Pair dengan USD di depan
+
+Contoh: USDJPY, USDCHF, USDCAD
+
+👉 Nilai pip tidak fix, tergantung harga
+
+| Lot Size | Perkiraan Pip  |
+| -------- | -------------- |
+| 1.00     | ~$9 – $10      |
+| 0.10     | ~$0.9 – $1     |
+| 0.01     | ~$0.09 – $0.10 |
+
+⚠️ berubah dikit sesuai harga market
+
+💶 Cross pair (tanpa USD)
+
+Contoh: EURJPY, GBPJPY, EURGBP
+
+👉 Ini yang agak “liar” 😄
+
+| Lot Size | Perkiraan Pip  |
+| -------- | -------------- |
+| 1.00     | ~$7 – $12      |
+| 0.10     | ~$0.7 – $1.2   |
+| 0.01     | ~$0.07 – $0.12 |
+
+⚠️ tergantung kurs ke USD
+
+🧠 Cara cepat ngafal (biar nggak pusing)
+
+Bang cukup ingat ini aja:
+
+🔑 Rule simple:
+
+- Pair ada USD di belakang 👉 fix (enak)
+- Pair ada USD di depan 👉 hampir sama
+- Pair tanpa USD 👉 cek dulu / kira-kira
