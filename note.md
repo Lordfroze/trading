@@ -80,8 +80,8 @@ Edit: jangan pernah menggunakan timeframe 1 menit. jika tidak mau senam jantung
 
 ![alt text](image-64.png)
 
-| Sesi               | Jam Buka (WIB) | Jam Tutup (WIB) | Karakteristik                        |
-| ------------------ | -------------- | --------------- | ------------------------------------ |
+| Sesi                     | Jam Buka (WIB) | Jam Tutup (WIB) | Karakteristik                        |
+| ------------------------ | -------------- | --------------- | ------------------------------------ |
 | **Sydney**         | 05:00          | 14:00           | Volume rendah, spread lebar          |
 | **Tokyo (Asia)**   | 06:00          | 15:00           | Moderat, JPY aktif                   |
 | **London (Eropa)** | 14:00          | 23:00           | Volume tertinggi, volatilitas tinggi |
@@ -91,8 +91,8 @@ Edit: jangan pernah menggunakan timeframe 1 menit. jika tidak mau senam jantung
 
 ### **1. Sesi Asia (Tokyo) — 06:00–15:00 WIB**
 
-| Pair        | Alasan                                      |
-| ----------- | ------------------------------------------- |
+| Pair              | Alasan                                      |
+| ----------------- | ------------------------------------------- |
 | **USD/JPY** | Pair JPY paling likuid, volatilitas moderat |
 | **EUR/JPY** | Cross yen dengan volatilitas lebih tinggi   |
 | **AUD/JPY** | Dipengaruhi data Australia & China          |
@@ -101,8 +101,8 @@ Edit: jangan pernah menggunakan timeframe 1 menit. jika tidak mau senam jantung
 
 ### **2. Sesi London — 14:00–23:00 WIB**
 
-| Pair        | Alasan                                                |
-| ----------- | ----------------------------------------------------- |
+| Pair              | Alasan                                                |
+| ----------------- | ----------------------------------------------------- |
 | **EUR/USD** | Pair paling banyak diperdagangkan, spread terketat    |
 | **GBP/USD** | Volatilitas tinggi, "Caber" pair                      |
 | **EUR/GBP** | Cross Eropa dengan pergerakan teknis                  |
@@ -111,8 +111,8 @@ Edit: jangan pernah menggunakan timeframe 1 menit. jika tidak mau senam jantung
 
 ### **3. Sesi New York — 19:00–04:00 WIB**
 
-| Pair        | Alasan                                         |
-| ----------- | ---------------------------------------------- |
+| Pair              | Alasan                                         |
+| ----------------- | ---------------------------------------------- |
 | **EUR/USD** | Likuiditas tertinggi saat overlap London       |
 | **GBP/USD** | Volatilitas tinggi, cocok untuk breakout       |
 | **USD/JPY** | Responsif terhadap data AS & yield Treasury    |
@@ -141,8 +141,8 @@ Ini adalah **jendela trading terbaik** secara global:
 
 ## Sesi Trading XAUUSD (GOLD) ke WIB
 
-| Sesi               | Jam (WIB)     | Karakteristik XAUUSD                   |
-| ------------------ | ------------- | -------------------------------------- |
+| Sesi                     | Jam (WIB)      | Karakteristik XAUUSD                   |
+| ------------------------ | -------------- | -------------------------------------- |
 | **Sydney**         | 04:00 – 13:00 | Volume rendah, spread lebar            |
 | **Tokyo (Asia)**   | 06:00 – 15:00 | Konsolidasi, pergerakan lambat         |
 | **London (Eropa)** | 14:00 – 22:00 | Likuiditas naik, trend mulai terbentuk |
@@ -166,20 +166,20 @@ Ini adalah **jendela trading terbaik** secara global:
 
 ## Ringkasan Berdasarkan Gaya Trading
 
-| Gaya Trading      | Waktu Terbaik (WIB) | Alasan                           |
-| ----------------- | ------------------- | -------------------------------- |
-| **Scalping**      | 19:00 – 22:00       | Spread ketat, volatilitas tinggi |
-| **Day Trading**   | 14:00 – 22:00       | Trend jelas, momentum kuat       |
-| **News Trading**  | 19:30 – 21:00       | Rilis data AS, reaksi instan     |
-| **Swing Trading** | 14:00 – 18:00       | Posisi awal sebelum breakouts    |
-| **Range Trading** | 06:00 – 13:00       | Konsolidasi, pergerakan stabil   |
+| Gaya Trading            | Waktu Terbaik (WIB) | Alasan                           |
+| ----------------------- | ------------------- | -------------------------------- |
+| **Scalping**      | 19:00 – 22:00      | Spread ketat, volatilitas tinggi |
+| **Day Trading**   | 14:00 – 22:00      | Trend jelas, momentum kuat       |
+| **News Trading**  | 19:30 – 21:00      | Rilis data AS, reaksi instan     |
+| **Swing Trading** | 14:00 – 18:00      | Posisi awal sebelum breakouts    |
+| **Range Trading** | 06:00 – 13:00      | Konsolidasi, pergerakan stabil   |
 
 ## Waktu yang Kurang Ideal Untuk Trading Emas (XAUUSD)
 
-| Waktu (WIB)                    | Mengapa Dihindari                                 |
-| ------------------------------ | ------------------------------------------------- |
-| **04:00 – 06:00**              | Jeda antar sesi, likuiditas terendah              |
-| **22:00 – 04:00**              | London tutup, hanya NY yang aktif, volume menurun |
+| Waktu (WIB)                          | Mengapa Dihindari                                 |
+| ------------------------------------ | ------------------------------------------------- |
+| **04:00 – 06:00**             | Jeda antar sesi, likuiditas terendah              |
+| **22:00 – 04:00**             | London tutup, hanya NY yang aktif, volume menurun |
 | **Sebelum rilis berita besar** | Spread melebar drastis, slippage tinggi           |
 | **Libur nasional AS/UK**       | Volume tipis, pergerakan tidak terduga            |
 
@@ -388,6 +388,58 @@ Part 3 tentang Liquidity market, tempat uang bersemayam.
 
 apakah wajib mengetahui itu semua, tidak harus, materi 1-5 adalah konsep dasar semua itu rangkuman dari beberapa banyak materi gila. setelah mengerti materi 1-5 bisa dilanjutkan memahami 6 dan part partnya
 
+# 8. Crypto
+
+## 1. Apa Itu Cryptocurrency?
+
+Bayangkan Anda memiliki sebuah **buku kas raksasa** yang mencatat semua transaksi uang di seluruh dunia. Bedanya dengan bank:
+
+* **Tanpa Bank:** Tidak ada kantor pusat atau perusahaan yang mengaturnya. Buku kas ini dipegang oleh ribuan komputer di seluruh dunia secara bersamaan.
+* **Aman & Permanen:** Sekali sebuah transaksi dicatat di buku ini, catatannya tidak bisa dihapus atau diubah. Teknologi buku kas digital ini disebut  **Blockchain** .
+* **Digital Saja:** Anda tidak bisa memegang fisik Bitcoin seperti memegang uang kertas, tapi Anda memilikinya secara sah di "dompet digital".
+
+## 2. Cara Kerja Crypto
+
+Jika uang biasa (Rupiah/Dolar) nilainya dijamin oleh pemerintah, nilai kripto ditentukan murni oleh  **permintaan dan penawaran** .
+
+* Jika banyak orang ingin membeli Bitcoin, harganya naik.
+* Jika banyak orang menjualnya, harganya turun.
+
+Ini mirip dengan emas. Emas berharga karena jumlahnya terbatas dan orang-orang sepakat bahwa itu berharga. Begitu juga dengan kripto seperti Bitcoin.
+
+## 3. Cara Trading untuk Pemula
+
+Cara Trading nya pun pada dasarnya sama seperti forex membeli di harga rendah dan menjual di harga tinggi untuk mendapatkan keuntungan, atau kebalikannya.
+
+## 4. Resiko
+
+* **Volatilitas Tinggi:** Harga bisa naik 10% dalam sejam, tapi juga bisa turun 20% dalam waktu yang sama.
+* **Keamanan:** Crypto seperti bank bagi diri Anda sendiri. Jika lupa kata sandi dompet digital atau salah kirim alamat koin, uang tersebut hilang selamanya.
+
+# 9. Jenis Crypto Exchange
+
+## 1. Centralized Exchange (CEX)
+
+Contoh: Binance, Tokocrypto, Indodax, Coinbase
+
+CEX sebagai **perantara** atau makelar. seperti menitipkan uang ke bank atau sekuritas untuk dikelola dan ditukarkan.
+
+* **Penyimpanan Aset:** Aset Anda disimpan oleh bursa
+* **Identitas (KYC):** Anda wajib mendaftar menggunakan KTP atau paspor. Identitas Anda tercatat secara hukum.
+* **Keamanan:** Jika Anda lupa kata sandi, bursa bisa membantu memulihkannya. Namun, jika bursa diretas atau bangkrut, aset Anda berisiko ikut hilang
+* **Teknis :** Sangat mudah, hampir seperti forex mengikuti peraturan broker yg ada, jarang ada koin scam/phising/rugpull, tapi tidak menutup kemungkinan juga koin koin tersebut di perjual belikan, dikarenakan antara exchange (broker) satu dengan yang lain berbeda peraturan.
+
+## 2. Decentralized Exchange (DEX)
+
+Contoh: Uniswap, PancakeSwap, SushiSwap *(situs crypto market yg berakhiran dengan swap)*
+
+DEX adalah platform pertukaran yang berjalan di atas kode komputer (Smart Contract). Tidak ada perusahaan di tengahnya; transaksi terjadi langsung antar pengguna ( **Peer-to-Peer** ), penyedia app seperti **truswallet**, **metamask**.
+
+* **Penyimpanan Aset:** menghubungkan dompet pribadi (seperti Metamask) ke platform. Aset hanya berpindah saat transaksi terjadi.
+* **Privasi:** Tidak perlu KTP
+* **Keamanan:** Keamanan tergantung pada diri Anda sendiri. Jika Anda kehilangan *seed phrase* (kata sandi rahasia dompet), tidak ada layanan pelanggan yang bisa membantu.
+* **Teknis:** Lebih rumit. semua jenis crypto ada di DEX hampir semua jenis tanpa sensor yg jelas, bahkan koin phising dan scam sekalipun ada.
+
 # 📊 Tabel Nilai Pip (Standar Forex)
 
 💵 Pair dengan USD di belakang (paling gampang)
@@ -411,8 +463,8 @@ Contoh: USDJPY, USDCHF, USDCAD
 
 👉 Nilai pip tidak fix, tergantung harga
 
-| Lot Size | Perkiraan Pip  |
-| -------- | -------------- |
+| Lot Size | Perkiraan Pip   |
+| -------- | --------------- |
 | 1.00     | ~$9 – $10      |
 | 0.10     | ~$0.9 – $1     |
 | 0.01     | ~$0.09 – $0.10 |
@@ -425,8 +477,8 @@ Contoh: EURJPY, GBPJPY, EURGBP
 
 👉 Ini yang agak “liar” 😄
 
-| Lot Size | Perkiraan Pip  |
-| -------- | -------------- |
+| Lot Size | Perkiraan Pip   |
+| -------- | --------------- |
 | 1.00     | ~$7 – $12      |
 | 0.10     | ~$0.7 – $1.2   |
 | 0.01     | ~$0.07 – $0.12 |
