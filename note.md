@@ -264,7 +264,7 @@ broker mendapat keuntungan dari tiap kita open posisi entah itu untung atau pun 
 sedikit edit
 Risk Reward Ratio
 cara mudah memahaminya adalah
-setiap 1$ yg kamu keluarkan kamu menaruh resiko 2$ begitu juga untungnya
+every `1$` you risk you get `2$`
 
 Risk Ratio yg sering dipakai
 1.5
