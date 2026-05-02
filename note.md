@@ -148,7 +148,7 @@ Ini adalah **jendela trading terbaik** secara global:
 | **London (Eropa)** | 14:00 – 22:00 | Likuiditas naik, trend mulai terbentuk |
 | **New York (US)**  | 19:00 – 04:00 | Volatilitas tertinggi, USD dominan     |
 
-### **Pembukaan Pasar London**
+### **1. Pembukaan Pasar London**
 
 **🕑 14:00 – 16:00 WIB**
 
@@ -156,7 +156,7 @@ Ini adalah **jendela trading terbaik** secara global:
 - Likuiditas meningkat signifikan dari sesi Asia
 - Cocok untuk identifikasi arah trend sebelum overlap puncak
 
-### **Pembukaan Pasar New York**
+### **2. Pembukaan Pasar New York**
 
 **🕖 19:00 – 21:00 WIB**
 
@@ -164,7 +164,7 @@ Ini adalah **jendela trading terbaik** secara global:
 - Banyak rilis berita high-impact jam **19:30–21:00 WIB**
 - Volatilitas tinggi meski London belum overlap penuh
 
-## Ringkasan Berdasarkan Gaya Trading
+## Ringkasan Berdasarkan Style Trading
 
 | Gaya Trading            | Waktu Terbaik (WIB) | Alasan                           |
 | ----------------------- | ------------------- | -------------------------------- |
@@ -182,6 +182,27 @@ Ini adalah **jendela trading terbaik** secara global:
 | **22:00 – 04:00**             | London tutup, hanya NY yang aktif, volume menurun |
 | **Sebelum rilis berita besar** | Spread melebar drastis, slippage tinggi           |
 | **Libur nasional AS/UK**       | Volume tipis, pergerakan tidak terduga            |
+
+# Market Gap
+
+Dalam dunia Forex, **Market Gap** (celah pasar) adalah kondisi di mana harga suatu pasangan mata uang meloncat naik atau turun dengan sangat tajam, sehingga terlihat ada "lubang" atau celah kosong pada grafik harga.
+
+![1777743109644](image/note/1777743109644.png "Market gap pada saat news")
+
+![1777743226329](image/note/1777743226329.png)
+
+Sederhananya, harga ditutup di satu titik, namun saat perdagangan dimulai kembali, harga langsung melompat ke titik lain tanpa melewati harga-harga di antaranya.
+
+## 1. Jenis-Jenis Market Gap
+
+* **Gap Up:** Harga pembukaan jauh lebih **tinggi** daripada harga penutupan sebelumnya. Ini menandakan sentimen pembeli (buyer) sangat kuat.
+* **Gap Down:** Harga pembukaan jauh lebih **rendah** daripada harga penutupan sebelumnya. Ini menandakan sentimen penjual (seller) sangat kuat.
+
+## 2. Istilah "Filling the Gap" (Menutup Celah)
+
+Dalam trading, ada fenomena populer yang disebut  **"Gap Fill"** . Banyak pedagang percaya bahwa jika terjadi celah, harga cenderung akan kembali ke titik sebelum celah itu terjadi untuk "mengisi" kekosongan tersebut sebelum melanjutkan arahnya.
+
+![1777743567747](image/note/1777743567747.png)
 
 # 4. Menentukan letak open posisi yang baik
 
