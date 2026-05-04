@@ -295,6 +295,14 @@ dan 3
 
 ![alt text](image-41.png)
 
+## Penting Nya Risk Ratio Sebelum Entry
+
+![alt text](Screenshot_20260505_061656_com.tradingview.tradingviewapp.jpg)
+
+![alt text](Screenshot_20260505_061740_net.metaquotes.metatrader5.jpg)
+
+Hindari trading tanpa tau resiko yg di ambil, selalu gunakan Risk ratio yg jelas dan masuk akal, ratio kecil seperti 2/2.5.
+
 # 5. RBS & SBR
 
 RBS adalah singkatan Resistance become support
